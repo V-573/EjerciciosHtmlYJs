@@ -38,7 +38,7 @@ function toggleMobilMenu() {
     }
 
     mobileMenu.classList.toggle('inactive');
-    
+    closeProducDetailAside();
 }
 
 function toggleCarritoAside() {

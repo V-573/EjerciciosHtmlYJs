@@ -389,8 +389,17 @@ este media query es para trabajar con mobile, a partir de esta medida se muestra
         height: 140px;
       }
 
+ #productDetail .product-info {
+        
+        margin-left: 20px;
+        margin-right:  20px;
+      }
 
-
+       #productDetail {
+        width: 100%;
+        margin-left: 5px;
+        margin-right:  5px;
+      }
     }
 
 
